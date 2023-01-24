@@ -22,14 +22,14 @@ the re-built printf function supports the same conversion specifiers as the stan
 %f: Prints a floating-point number
 %x: Prints an integer in hexadecimal form
 
-## Limitations
+## Limitations:
 This re-built implementation of printf does not support all the features that the standard printf function does, such as:
 
 Precision specifier (e.g. %.2f)
 Width specifier (e.g. %5d)
 Flags (e.g. %-d)
 
-## Building
+## Building:
 To use the re-built printf function in your program, you will need to include the "printf_rebuild.h" header file and link against the "printf_rebuild.c" file.
 
 ## Conclusion
