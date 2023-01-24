@@ -1,4 +1,4 @@
-# Printf Re-Building
+## Printf Re-Building
 
 This project is about re-building the printf function to mimic the behavior of the standard printf function found in the C library. The goal is to create a custom implementation of printf that can be used as a replacement for the standard function in various scenarios such as embedded systems or educational purposes.
 
