@@ -23,7 +23,7 @@ the re-built printf function supports the same conversion specifiers as the stan
 %x: Prints an integer in hexadecimal form
 
 ## Limitations
-This re-built implementation of printf does not support all the features that the standard printf function does, such as:
+This re-built implementation of printf doesn't support all the features that the standard printf function does, such as:
 
 Precision specifier (e.g. %.2f)
 Width specifier (e.g. %5d)
