@@ -1,6 +1,6 @@
 /*
  * File: functions1.c
- * Auth: Ahmed Nagm - Beshoy Raafat
+ * Auth: Alaa Elhosiny - Salma Wagdy
  */
 
 #include "main.h"
